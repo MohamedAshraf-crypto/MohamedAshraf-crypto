@@ -16,9 +16,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Ashraf-Data&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamed-Ashraf-Data&count_bg=%2379C83D&title_bg=%23555555&icon=graph.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Ashraf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ashraf-data)
-[![Gmail Badge](https://img.shields.io/badge/-mohamed.ashraf.data@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.ashraf.data@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Mohamed%20Ashraf-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ashraf-acc)
+[![Gmail Badge](https://img.shields.io/badge/-mohamed.as7raf.123@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohamed.as7raf.123@gmail.com)
 
 </div>
 
